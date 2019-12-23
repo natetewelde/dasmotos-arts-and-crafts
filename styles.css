@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(./img/pattern.jpeg);
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+.section-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#title-one {
+    background-color: mediumspringgreen;
+}
+
+#title-two {
+    background-color: lightcoral;
+}
+
+#title-three {
+    background-color: skyblue;
+}
+
